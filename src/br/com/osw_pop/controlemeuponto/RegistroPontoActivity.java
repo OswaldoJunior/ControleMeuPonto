@@ -11,6 +11,7 @@ public class RegistroPontoActivity extends ActionBarActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_registro_ponto);
+		//oswaldo
 	}
 
 	@Override
